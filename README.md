@@ -70,5 +70,7 @@ Es necesario tener instalado [jdk-20.0.1_windows-x64_bin](https://download.oracl
 
 Despues de tener instalado el jdk descargar el repositorio y en la carpeta: ejecutar `compilar.bat` y después `ejecutar_gui.bat` para el modo gráfico o `ejecutar_textui.bat` para el modo texto.
 
+# Licencia
 
+Proyecto licenciado bajo la licencia MIT. Para más información: [LICENSE](LICENSE).
 
