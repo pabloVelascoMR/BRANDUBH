@@ -10,7 +10,7 @@ El Brandubh es un juego compuesto por un tablero de 7x7 celdas, para dos contrin
 
 La colocación inicial de las piezas se muestra a continuación en la Ilustración:
 
-![Tablero](imagenesReadme/capturaP.png)
+![Tablero](imagenesReadme/tab.png)
 
 
 Existe una pieza especial de color blanco, el rey que se coloca inicialmente en la celda central deno
@@ -49,7 +49,7 @@ cándose con un color diferente.
  en:
  ### Ejemplos de NO captura al mover entre piezas contrarias
  
-  ![NCaptura](imagenesReadme/nocapturaP.png)
+  ![NCaptura](imagenesReadme/nocaptura.png)
   
  El rey situado en el trono solo puede ser capturado si está rodeado de cuatro piezas contrarias. Si está colindante al trono, puede ser capturado por tres piezas contrarias.
  En el resto de posiciones del tablero, se aplica la regla general de captura.
