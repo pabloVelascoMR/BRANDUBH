@@ -54,7 +54,7 @@ cándose con un color diferente.
  El rey situado en el trono solo puede ser capturado si está rodeado de cuatro piezas contrarias. Si está colindante al trono, puede ser capturado por tres piezas contrarias.
  En el resto de posiciones del tablero, se aplica la regla general de captura.
 
-  ![CapturaR](imagenesReadme/capturaT.png)
+  ![CapturaR](imagenesReadme/capturat.png)
  
  8.Una vez abandonado el trono por el rey, el resto de piezas pueden pasar por encima, pero no  pueden
  dejar su pieza en el trono. El rey sí puede volver a ocupar el trono. 
