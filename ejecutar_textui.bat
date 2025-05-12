@@ -1,0 +1,1 @@
+java -classpath .\bin;.\lib\* brandubh.textui.Brandubh

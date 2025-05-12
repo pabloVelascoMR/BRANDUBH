@@ -1,0 +1,1 @@
+java -classpath .\bin;.\lib\* brandubh.gui.Brandubh
