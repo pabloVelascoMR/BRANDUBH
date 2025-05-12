@@ -63,3 +63,11 @@ cándose con un color diferente.
  pieza contraria (a excepción del caso especial con el rey ya mencionado).
  
 10.siempre comienza la partida el contrincante atacante con turno negro
+
+# Requerimientos y Como Jugarlo 
+
+Es necesario tener instalado [jdk-20.0.1_windows-x64_bin](https://download.oracle.com/java/20/archive/jdk-20.0.1_windows-x64_bin.exe) o superior para poder ejecutarlo.
+Despues de tner instalado el jdk descargar el repositorio y en la carpeta ejecutar `compilar.bat` para crear el directorio **bin**, después `ejecutar_gui.bat` para el modo gráfico o `ejecutar_textui.bat` para el modo texto.
+
+
+
